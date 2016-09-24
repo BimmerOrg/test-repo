@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 name = Rado
 size = 50
 email = rado@dir.bg
+=======
+name = Radoslav
+size = 70
+email = radoslav@dir.bg
+>>>>>>> 6d2746b2f7cb1136e1211783b6533ff5914b05d8
